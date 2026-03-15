@@ -49,9 +49,9 @@ Technology: C++ Programming (Win32 SDK, DLL)
 
 * Example Usage
 
-  # Encrypt a file
+  * Encrypt a file
   encrypt.exe input.txt output.enc key
   
-  # Decrypt a file
+  * Decrypt a file
   decrypt.exe output.enc recovered.txt key
 
